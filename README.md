@@ -1,21 +1,22 @@
 # Bespoken Agency strona internetowa
+
 ## Introduction
 
-Welcome to the website of the Bespoken marketing agency.
+**Welcome to the website of the Bespoken marketing agency.
 We help the brands grow faster.
-Get to know our number, offer and values.
+Get to know our number, offer and values.**
 
+![Bespoken] (https://raw.githubusercontent.com/monwil999/homepage/main/images/Bespoken.jpg)
 
 ## Features
 
 1. HTML
-2. CSS
-3. Alternative Box Model
-4. JS
-5. BEM
-6. ES6+
+1. CSS
+1. Alternative Box Model
+1. JS
+1. BEM
+1. ES6+
 
-## Desctiption
 
 ## Demo
 

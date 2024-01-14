@@ -4,9 +4,9 @@
 
 **Welcome to the website of the Bespoken marketing agency.
 We help the brands grow faster.
-Get to know our number, offer and values.**
+Get to know our numbers, offer and values.**
 
-![Bespoken] (.images/Bespoken.jpg)
+![Bespoken] (./images/Bespoken.jpg)
 
 ## Features
 

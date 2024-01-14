@@ -1,4 +1,4 @@
-#Bespoken Agency strona internetowa
+# Bespoken Agency strona internetowa
 ## Introduction
 ### Features
 
@@ -9,7 +9,7 @@ JS
 BEM
 ES6+
 
-#### Disctiption
+#### Desctiption
 ##### Demo
 
 https://monwil999.github.io/homepage/

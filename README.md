@@ -6,7 +6,7 @@
 We help the brands grow faster.
 Get to know our numbers, offer and values.**
 
-![Bespoken] (./images/Bespoken.jpg)
+![Bespoken](./images/Bespoken.jpg)
 
 ## Features
 

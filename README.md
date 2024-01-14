@@ -6,7 +6,7 @@ We help the brands grow faster.
 Get to know our number, offer and values.
 
 
-### Features
+## Features
 
 1. HTML
 2. CSS
@@ -15,8 +15,8 @@ Get to know our number, offer and values.
 5. BEM
 6. ES6+
 
-#### Desctiption
+## Desctiption
 
-##### Demo
+## Demo
 
 https://monwil999.github.io/homepage/

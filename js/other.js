@@ -1,23 +1,22 @@
-console.log("Cześć");
+{
+  const welcome = () => {
+    console.log("Cześć");
+  };
 
-let przycisk = document.querySelector(".przycisk");
-przycisk.addEventListener("click", () => {
-    let naglowek = document.querySelector(".naglowek");
-    naglowek.remove();
-});
+  const toggleBackground = () => {
+    const body = document.querySelector(".body");
+    const themeName = document.querySelector(".themeName");
 
-let button = document.querySelector(".button");
-let body = document.querySelector(".body");
-let themeName = document.querySelector(".themeName");
+    body.classList.toggle("dark");
+    themeName.innerText = body.classList.contains("dark") ? "jasny" : "ciemny";
+  };
 
-button.addEventListener("click", () => {
-body.classList.toggle("dark");
+  const init = () => {
+    let button = document.querySelector(".js-button");
 
+    button.addEventListener("click", toggleBackground);
 
-if(body.classList.contains("dark")) {
-    themeName.innerText = "jasny";
-
-} else {
-    themeName.innerText = "ciemny";
+    welcome();
+  };
+  init();
 }
-});
